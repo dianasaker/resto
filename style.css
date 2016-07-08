@@ -1,0 +1,141 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*---------------css reset---------------------------*/
+#title {
+	float: left;
+	margin-left: 110px;
+	width: 60px;
+	height: 20px;
+	margin-top: 20px;
+}
+#n1 ul li {
+	list-style: none;
+	margin-left: 30px;
+	display: inline;
+	font-size: 12px;
+}
+#n1 ul {
+	margin-top: 20px;
+	direction: rtl;
+	float: right;
+	margin-right: 100px;
+}
+#img1 {
+	width: 100%;
+	height: 350px;
+}
+#img2 {
+	width: 90px;
+	height: 45px;
+	margin-left: 490px;
+}
+#n2 {
+	font-size: 13px;
+}
+.line {
+	border: 0.1px solid #d9d9d9;
+	height: 0;
+	float: left;
+	margin-top: 8px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+#n2 ul li {
+	float: left;
+	list-style: none;
+	color: #4d4d4d;
+}
+.under {
+	font-size: 10px;
+	color: #bfbfbf;
+}
+#box {
+	padding: 30px 130px;
+}
+.ml {
+	margin-left: 90px;
+}
+form {
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+h1 {
+	font-weight: bold;
+	float: left;
+}
+.clearbox {
+	clear: both;
+	overflow: hidden;
+}
+#n3 ul li img{
+	width: 150px;
+	height: 130px;
+	float: left;
+	margin-right: 50px;
+}
+#n3 {
+	padding: 30px 0px;;
+	
+}
+#n3 #star li{
+	font-size:13px;
+	margin-top:10px;
+	float:left;
+	color:#666666;
+}
+#st{
+	float:left;
+	
+}
+.sp{
+	margin-right:145px;
+	float:left;
+}
+#img3{
+	float:left;
+	
+}
+#boximg{
+	padding:50px;
+	
+}
+footer div div p{
+	color:white;
+	font-size:8px;
+	display:inline;
+}
+footer div{
+	padding:20px;
+	background-color:#404040;
+	width:100%;
+}
+
